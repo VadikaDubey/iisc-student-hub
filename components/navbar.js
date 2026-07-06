@@ -17,6 +17,10 @@ export default function Navbar(props) {
       href: "/"
     },
     {
+      label: "Map Explorer",
+      href: "/explore"
+    },
+    {
       label: "About",
       href: "/about"
     },
