@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "importance": 5,
+    "question": "Which mess serves the best breakfast?",
+    "answer": "Opinions vary. Ask three students and you'll get four answers."
+  },
+  {
+    "id": 2,
+    "importance": 5,
+    "question": "Which mess is closest to the UG hostels?",
+    "answer": "Depends on your hostel location."
+  },
+  {
+    "id": 3,
+    "importance": 4,
+    "question": "Where is the Health Centre?",
+    "answer": "Check the Campus Explorer map."
+  },
+  {
+    "id": 4,
+    "importance": 4,
+    "question": "Where can I print documents?",
+    "answer": "Campus printing locations will be listed here."
+  },
+  {
+    "id": 5,
+    "importance": 5,
+    "question": "What should freshers do in their first week?",
+    "answer": "Learn the campus layout and meet people."
+  },
+  {
+    "id": 6,
+    "importance": 3,
+    "question": "Where can I get stationery?",
+    "answer": "Campus stores and nearby shops."
+  },
+  {
+    "id": 7,
+    "importance": 4,
+    "question": "How do I join clubs?",
+    "answer": "Watch for recruitment announcements."
+  },
+  {
+    "id": 8,
+    "importance": 3,
+    "question": "Where are the cycle stands?",
+    "answer": "Most major academic buildings have them."
+  },
+  {
+    "id": 9,
+    "importance": 4,
+    "question": "Which gate is closest to UG housing?",
+    "answer": "Depends on the hostel."
+  },
+  {
+    "id": 10,
+    "importance": 5,
+    "question": "How does add/drop work?",
+    "answer": "During the official add/drop period through institute systems."
+  },
+  {
+    "id": 11,
+    "importance": 4,
+    "question": "Where can I study late at night?",
+    "answer": "Library and hostel study spaces."
+  },
+  {
+    "id": 12,
+    "importance": 3,
+    "question": "What is Kernel?",
+    "answer": "IISc's student science publication."
+  },
+  {
+    "id": 13,
+    "importance": 3,
+    "question": "What is Connect?",
+    "answer": "IISc's student magazine."
+  },
+  {
+    "id": 14,
+    "importance": 4,
+    "question": "Where do I find previous course information?",
+    "answer": "Department websites and seniors."
+  },
+  {
+    "id": 15,
+    "importance": 3,
+    "question": "Where can I buy snacks late at night?",
+    "answer": "Depends on currently operating outlets."
+  },
+  {
+    "id": 16,
+    "importance": 2,
+    "question": "Which campus spots are best for sunsets?",
+    "answer": "Students have several favorites."
+  },
+  {
+    "id": 17,
+    "importance": 4,
+    "question": "How do I contact hostel administration?",
+    "answer": "Hostel office information will be listed here."
+  },
+  {
+    "id": 18,
+    "importance": 3,
+    "question": "Where can I find academic calendars?",
+    "answer": "Institute academic resources."
+  },
+  {
+    "id": 19,
+    "importance": 4,
+    "question": "How do I access institute Wi-Fi?",
+    "answer": "Use your institute credentials."
+  },
+  {
+    "id": 20,
+    "importance": 5,
+    "question": "What websites should every IISc student bookmark?",
+    "answer": "Exactly why this hub exists."
+  },
+  {
+    "id": 21,
+    "importance": 2,
+    "question": "Which buildings confuse everyone at first?",
+    "answer": "Several."
+  },
+  {
+    "id": 22,
+    "importance": 4,
+    "question": "How do I get from the airport to IISc?",
+    "answer": "Bus, cab, or metro plus cab."
+  },
+  {
+    "id": 23,
+    "importance": 3,
+    "question": "Where can I find internship advice?",
+    "answer": "Seniors and department communities."
+  },
+  {
+    "id": 24,
+    "importance": 4,
+    "question": "How do course registrations work?",
+    "answer": "Through institute academic systems."
+  },
+  {
+    "id": 25,
+    "importance": 2,
+    "question": "What are the campus cats called?",
+    "answer": "Students keep discovering new ones."
+  },
+  {
+    "id": 26,
+    "importance": 3,
+    "question": "Where can I exercise on campus?",
+    "answer": "Sports facilities and open areas."
+  },
+  {
+    "id": 27,
+    "importance": 4,
+    "question": "How do I find professors' offices?",
+    "answer": "Department pages and building directories."
+  },
+  {
+    "id": 28,
+    "importance": 3,
+    "question": "Where are the best places to work on projects?",
+    "answer": "Library and department spaces."
+  },
+  {
+    "id": 29,
+    "importance": 5,
+    "question": "What do seniors wish they knew earlier?",
+    "answer": "That's exactly what DotWiki collects."
+  },
+  {
+    "id": 30,
+    "importance": 5,
+    "question": "What useful thing do students always end up asking?",
+    "answer": "Probably belongs here."
+  }
+]

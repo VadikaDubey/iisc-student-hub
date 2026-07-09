@@ -21,8 +21,8 @@ export default function Navbar(props) {
       href: "/explore"
     },
     {
-      label: "More Coming Soon",
-      href: "#"
+      label: "DotWiki Q&A",
+      href: "/dotwiki"
     }
   ];
 
