@@ -144,6 +144,11 @@ export default function HomePage({
 
       </div>
 
+      <div>
+        <p>
+          Warning: This site is currently optimised for desktop only. Some features may not work properly on mobile devices.
+        </p>
+      </div>
 
       {/* HORIZONTAL SECTION */}
       <div
