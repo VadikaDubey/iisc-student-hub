@@ -2,7 +2,7 @@ import DotWiki from "./dotwiki";
 
 export const metadata = {
   title: "DotWiki Q&A",
-  description: "Hidden campus knowledge, useful answers, and things you didn't know you needed.",
+  description: "Hidden campus knowledge, useful answers, and things you didn't know you needed. (Currently still being updated)",
 };
 
 export default function DotWikiPage() {

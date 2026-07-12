@@ -33,7 +33,7 @@
     "id": 6,
     "importance": 3,
     "question": "What should the freshers bring?",
-    "answer": "Campus stores and nearby shops."
+    "answer": "Bring all required admission and medical documents, a few passport-size photographs, basic clothing, toiletries, a bedsheet and pillow if preferred, personal medications, a laptop, chargers, and other daily essentials. Don't worry too much about packing everything beforehand—most necessities such as mattresses, buckets, stationery, and other hostel items can be purchased either on campus or from nearby shops after arrival."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "id": 14,
     "importance": 5,
     "question": "What if you don't have vaccine proof or dates?",
-    "answer": ""
+    "answer": "You can get tested for antibodies or complete pending doses at the IISc Health Centre after arrival. They will grant a temporary clearance."
   },
   {
     "id": 15,
@@ -93,7 +93,7 @@
     "id": 16,
     "importance": 1,
     "question": "Can we bring/install our own AC or fan?",
-    "answer": ""
+    "answer": "ACs are strictly prohibited due to infrastructure and electrical capacity constraints, but you can purchase or bring your own table fan."
   },
   {
     "id": 17,
@@ -105,13 +105,13 @@
     "id": 18,
     "importance": 3,
     "question": "What does freshmen orientation consist of?",
-    "answer": "Institute academic resources."
+    "answer": "Freshmen Orientation is a series of sessions conducted before classes begin. It typically includes introductions to academics, course registration, campus facilities, student clubs, research opportunities, hostel life, institute policies, health and counselling services, and interactions with faculty, staff, and senior students. It is also one of the best opportunities to meet your batchmates before classes start."
   },
   {
     "id": 19,
     "importance": 2,
     "question": "How long does freshmen orientation last, overall and daily?",
-    "answer": "Use your institute credentials."
+    "answer": "The exact schedule varies from year to year. Typically, orientation activities are spread over several days before the start of classes, with sessions taking place for a few hours each day. The official orientation schedule is usually shared closer to reporting and admission dates."
   },
   {
     "id": 20,
@@ -141,7 +141,7 @@
     "id": 24,
     "importance": 4,
     "question": "What are some sample class timings for first semester? Are Saturday and Sunday holidays?",
-    "answer": "Yes, Saturday and Sunday are holidays. As for sample class timings, check out: (link)"
+    "answer": "Yes, undergraduate classes are generally scheduled only on weekdays, so Saturdays and Sundays are usually free unless there is a special academic event or activity. Class timings vary by semester and course, but lectures commonly run between morning and late afternoon, with breaks in between. The exact timetable will be available after course registration."
   },
   {
     "id": 25,
@@ -183,19 +183,19 @@
     "id": 31,
     "importance": 2,
     "question": "What are TAs? Can you TA as an undergrad? Freshman?",
-    "answer": "Yes, every semester, you have to have minimum 80% attendance, including tutorials per subject you take"
+    "answer": "TAs (Teaching Assistants) help instructors with activities such as grading, conducting tutorials, answering student questions, and assisting in laboratories. Undergraduate students can sometimes become TAs, but this is uncommon and usually happens in later years after performing very well in a course. Freshmen almost never serve as TAs."
   },
   {
     "id": 32,
     "importance": 1,
     "question": "What are Subject Tutorials?",
-    "answer": "Yes, every semester, you have to have minimum 80% attendance, including tutorials per subject you take"
+    "answer": "Tutorials are smaller discussion or problem-solving sessions associated with a course. Unlike lectures, tutorials focus on working through exercises, clarifying difficult concepts, discussing assignments, and interacting more directly with instructors or TAs. Attendance in tutorials generally counts toward the course attendance requirement."
   },
   {
     "id": 33,
     "importance": 5,
     "question": "What kind of laptop do we need to take? Is macbook better or windows?",
-    "answer": "xx"
+    "answer": "There is no officially required laptop specification for undergraduate students. Both Windows laptops and MacBooks work well for most courses."
   },
   {
     "id": 34,
@@ -207,7 +207,7 @@
     "id": 35,
     "importance": 1,
     "question": "How to contact UG office?",
-    "answer": "Email them at xx"
+    "answer": "The Undergraduate Programme Office regularly communicates through official admission emails and notices. For the most up-to-date contact information, refer to the Undergraduate Programme section on the official IISc website or the admission documents provided with your offer letter."
   },
   {
     "id": 36,
@@ -219,7 +219,7 @@
     "id": 37,
     "importance": 5,
     "question": "What happens on reporting day?",
-    "answer": "Document verification and hostel allocation and move-in."
+    "answer": "Reporting day typically involves document verification, medical clearance verification, hostel allocation, room assignment, fee-related formalities if pending, and issuance of important student credentials. After completing the required formalities, students can move into their allotted hostels and begin participating in orientation activities."
   },
   {
     "id": 38,
@@ -238,5 +238,245 @@
     "importance": 1,
     "question": "Do we get yearbooks at IISc?",
     "answer": "Not yet."
+  },
+  {
+    "id": 41,
+    "importance": 4,
+    "question": "What are the mess options available for freshers?",
+    "answer": "There are multiple messes on campus serving North Indian, South Indian, and composite food options. Freshers can register for any mess and can change their choice on a monthly basis."
+  },
+  {
+    "id": 42,
+    "importance": 5,
+    "question": "How do we pay our mess and hostel bills?",
+    "answer": "Hostel and mess bills are generated monthly and can be paid online through the integrated student portal or via specified banking channels."
+  },
+  {
+    "id": 43,
+    "importance": 3,
+    "question": "Is there a washing machine facility in the hostels?",
+    "answer": "Yes, most hostels are equipped with centralized, coin-operated or digital payment-enabled washing machines. Alternatively, local laundry services visit the hostels regularly."
+  },
+  {
+    "id": 44,
+    "importance": 4,
+    "question": "How do I connect to the campus Wi-Fi Network?",
+    "answer": "You will receive your DIGITS user credentials shortly after registration, which you can use to sign into the IISc secure campus-wide Wi-Fi network."
+  },
+  {
+    "id": 45,
+    "importance": 4,
+    "question": "What medical facilities are available on campus if I fall sick?",
+    "answer": "The IISc Health Centre operates 24/7 for consultations, basic medication, and emergency care. For advanced emergencies, an ambulance service can transport you to nearby tied-up hospitals."
+  },
+  {
+    "id": 46,
+    "importance": 3,
+    "question": "Where can I buy textbooks and stationery on campus?",
+    "answer": "The campus has dedicated general stores and bookshops near the hostel blocks and at the central shopping complex where all major stationery and textbooks can be bought."
+  },
+  {
+    "id": 47,
+    "importance": 2,
+    "question": "Are there gyms and sports facilities open to UG students?",
+    "answer": "Yes, the Gymkhana features an extensive gym, a swimming pool, tennis courts, badminton courts, cricket/football grounds, and running tracks, which are accessible to all students."
+  },
+  {
+    "id": 48,
+    "importance": 5,
+    "question": "Is there a curfew or entry-time restriction for the hostels?",
+    "answer": "Generally, IISc maintains an open campus culture without strict evening curfews for entry into your own hostel block, though certain gates on campus close at specified night hours for safety."
+  },
+  {
+    "id": 49,
+    "importance": 3,
+    "question": "Can I use an electric kettle or induction stove in my hostel room?",
+    "answer": "No, high-wattage electrical appliances like induction cooktops, room heaters, and electric kettles are strictly prohibited inside individual rooms due to fire safety regulations."
+  },
+  {
+    "id": 50,
+    "importance": 4,
+    "question": "What is the procedure to get an IISc Student ID card?",
+    "answer": "Your student ID card is processed automatically by the academic section following successful physical document verification, and is usually distributed within the first few weeks of classes."
+  },
+  {
+    "id": 51,
+    "importance": 2,
+    "question": "Are there banks or ATMs inside the IISc campus?",
+    "answer": "Yes, branches of State Bank of India (SBI) and Canara Bank are located inside the campus, along with multiple ATMs distributed near the main shopping complexes."
+  },
+  {
+    "id": 52,
+    "importance": 3,
+    "question": "What should I do if my room has a maintenance issue (plumbing, electrical)?",
+    "answer": "You can raise a maintenance ticket online through the IISc Hostels web portal or note down the complaint in the physical register kept at your hostel security desk."
+  },
+  {
+    "id": 53,
+    "importance": 4,
+    "question": "How do I receive courier packages and mail at the hostel?",
+    "answer": "Couriers are typically delivered to a centralized hostel mail room or specific security gates where you can pick them up by showing your student ID card."
+  },
+  {
+    "id": 54,
+    "importance": 5,
+    "question": "When do we select our major discipline?",
+    "answer": "For Bachelor of Science (Research) students, selection of the major discipline happens at the end of the fourth semester (second year) based on performance and preference."
+  },
+  {
+    "id": 55,
+    "importance": 3,
+    "question": "Is it easy to find pure vegetarian or vegan food options?",
+    "answer": "Yes, all regular campus messes serve distinct vegetarian lines, and dedicated vegetarian eateries operate inside the campus grounds."
+  },
+  {
+    "id": 56,
+    "importance": 4,
+    "question": "What is the grading system followed at IISc?",
+    "answer": "IISc follows a 10-point letter grading system, ranging from 'S' (Highest/Outstanding), 'A', 'B', 'C', 'D', to 'F' (Fail)."
+  },
+  {
+    "id": 57,
+    "importance": 2,
+    "question": "Are there student-run clubs I can join?",
+    "answer": "Yes, there are diverse technical, cultural, literary, and sports clubs ranging from astronomy and coding to music, drama, and photography."
+  },
+  {
+    "id": 58,
+    "importance": 3,
+    "question": "How can I commute inside the campus if personal motor vehicles are banned?",
+    "answer": "Most students walk or use bicycles. The institute also runs an eco-friendly e-shuttle bus service that routes through major spots on campus at regular intervals."
+  },
+  {
+    "id": 59,
+    "importance": 4,
+    "question": "Is the library open 24 hours?",
+    "answer": "The J.R.D. Tata Central Library keeps long operating hours, often remaining open late into the night. Reading rooms may be accessible 24/7 during exam periods."
+  },
+  {
+    "id": 60,
+    "importance": 5,
+    "question": "How do scholarships/stipends work for UG students?",
+    "answer": "Eligible students receive external fellowships (like KVPY/INSPIRE) or institute-specific stipends subject to maintaining the required minimum CGPA and fulfilling criteria set by academic rules."
+  },
+  {
+    "id": 61,
+    "importance": 3,
+    "question": "Where can parents find accommodation when visiting later in the semester?",
+    "answer": "Once you are a registered student, you can try booking a room for parents at the Hoysala House or Centenary Visitors House ahead of time, subject to availability."
+  },
+  {
+    "id": 62,
+    "importance": 4,
+    "question": "What is the structure of the academic calendar year?",
+    "answer": "The academic year is split into two primary terms: the August Term (First Semester) and the January Term (Second Semester), separated by winter and summer breaks."
+  },
+  {
+    "id": 63,
+    "importance": 2,
+    "question": "Are there night canteens or eateries on campus?",
+    "answer": "Yes, several campus eateries and snack counters stay open late into the night to cater to students working in labs or studying."
+  },
+  {
+    "id": 64,
+    "importance": 3,
+    "question": "Can undergraduate students participate in research projects early on?",
+    "answer": "Yes, motivated students can approach professors during their semesters to work on ongoing projects, read papers, or take up summer research projects inside campus labs."
+  },
+  {
+    "id": 65,
+    "importance": 2,
+    "question": "Is there a dress code for attending classes at IISc?",
+    "answer": "There is no formal dress code for regular classes, though simple, decent casual attire is expected. Closed shoes are mandatory when entering scientific laboratory spaces."
+  },
+  {
+    "id": 66,
+    "importance": 4,
+    "question": "What happens if a student fails a core course?",
+    "answer": "If a student fails a core course, they must register for it again and clear it when the course is offered next, or take a supplementary exam if permitted by administrative rules."
+  },
+  {
+    "id": 67,
+    "importance": 3,
+    "question": "How secure is the campus for students at night?",
+    "answer": "The campus is highly secure with 24/7 security patrolling, checkpoint logging, and prominent surveillance infrastructure across all major streets and hostel zones."
+  },
+  {
+    "id": 68,
+    "importance": 2,
+    "question": "Are there printers and photocopy shops inside the campus?",
+    "answer": "Yes, there are multiple xerox and printing kiosks available near the hostel blocks, the library, and the student amenities shopping complex."
+  },
+  {
+    "id": 69,
+    "importance": 4,
+    "question": "How do I open a bank account aligned with the institute?",
+    "answer": "During registration week, the on-campus banks often set up dedicated helpdesks to assist incoming freshers with opening zero-balance student bank accounts instantly."
+  },
+  {
+    "id": 70,
+    "importance": 1,
+    "question": "What is Pravega?",
+    "answer": "Pravega is the annual national-level undergraduate science, technology, and cultural fest organized entirely by the undergraduate community of IISc."
+  },
+  {
+    "id": 71,
+    "importance": 3,
+    "question": "Where can I buy a bicycle on campus?",
+    "answer": "You can buy new or second-hand bicycles from the campus cycle store or look out for seniors selling off their cycles via local student notice boards and chat groups."
+  },
+  {
+    "id": 72,
+    "importance": 4,
+    "question": "Are we allowed to go outside the campus whenever we want?",
+    "answer": "Yes, students can leave campus during their free hours, but you must carry your student ID card to facilitate re-entry through security gates."
+  },
+  {
+    "id": 73,
+    "importance": 3,
+    "question": "Can I change my allotted roommate if we face issues?",
+    "answer": "Roommate changes are generally discouraged early in the term, but in cases of severe mismatch, you can file a formal request with the hostel warden for consideration."
+  },
+  {
+    "id": 74,
+    "importance": 5,
+    "question": "What is the consequence of falling short of the 80% attendance mark?",
+    "answer": "Students falling short of the minimum attendance criteria may be barred by the instructor from appearing in the final examinations, resulting in an automatic academic penalty."
+  },
+  {
+    "id": 75,
+    "importance": 2,
+    "question": "Are there cooking facilities available in the hostel common areas?",
+    "answer": "Hostels generally do not provide community kitchens. Minor requirements like hot water can be obtained from the water dispensers installed on each floor."
+  },
+  {
+    "id": 76,
+    "importance": 4,
+    "question": "What platform does IISc use for managing course registrations?",
+    "answer": "IISc utilizes its centralized portal managed by DIGITS for course registration, viewing grades, checking schedules, and handling formal academic requests."
+  },
+  {
+    "id": 77,
+    "importance": 3,
+    "question": "Are water filters available in the hostels?",
+    "answer": "Yes, every floor of the hostel residential buildings is equipped with commercial-grade RO water purifiers and coolers that are regularly maintained."
+  },
+  {
+    "id": 78,
+    "importance": 2,
+    "question": "Who can I talk to if I am experiencing extreme academic or mental stress?",
+    "answer": "IISc has a dedicated Student Counselling Centre (SCC) with professional counselors and wellness experts where students can book completely confidential sessions."
+  },
+  {
+    "id": 79,
+    "importance": 4,
+    "question": "Are calculators allowed in exams?",
+    "answer": "The use of calculators depends entirely on the course instructor's guidelines. Some courses permit non-programmable scientific calculators, while others ban them completely."
+  },
+  {
+    "id": 80,
+    "importance": 5,
+    "question": "What is the primary language of instruction for all classes?",
+    "answer": "The official and exclusive medium of instruction for all undergraduate and postgraduate lectures, examinations, and coursework at IISc is English."
   }
 ]

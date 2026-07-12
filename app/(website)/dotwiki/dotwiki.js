@@ -34,13 +34,13 @@ const positionedQuestions = useMemo(() => {
 const placedDots = [];
 
 
-const MIN_DISTANCE = 12;
+const MIN_DISTANCE = 8;
 
 const HEADER_ZONE = {
-  left: 15,
-  right: 85,
+  left: 5,
+  right: 95,
   top: 0,
-  bottom: 38,
+  bottom: 23,
 };
 
 return questions.map((question) => {
@@ -116,7 +116,7 @@ const sizeMap = {
 1: 10,
 };
 
-return ( <main className="relative min-h-screen overflow-hidden bg-black text-white"> <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.08),transparent_60%)]" />
+return ( <main className="relative min-h-[200vh] overflow-hidden bg-black text-white"> <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.08),transparent_60%)]" />
 
 
   <section className="relative z-20 flex flex-col items-center pt-20">
@@ -265,6 +265,5 @@ return ( <main className="relative min-h-screen overflow-hidden bg-black text-wh
 
 );
 }
-
 
 
