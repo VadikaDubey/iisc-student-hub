@@ -108,7 +108,7 @@ export default function HomePage({
             {/* FRONT */}
             <div className="absolute inset-0 w-full h-full rounded-3xl bg-purple-50 px-12 py-20 text-purple-950 border border-purple-100 bg-[url('https://www.transparenttextures.com/patterns/flames.png')] bg-repeat [backface-visibility:hidden] flex flex-col justify-center">
               <h1 className="text-5xl font-extrabold tracking-tight font-serif">
-                IISc Student Hub
+                SITE STILL UNDER CONSTRUCTION, SOME INFORMATION MAY NOT BE ACCURATE OR UP TO DATE. USE AT YOUR OWN RISK.
               </h1>
 
               <p className="mt-4 max-w-2xl text-xl text-purple-700/80">
@@ -185,12 +185,51 @@ export default function HomePage({
                 opacity: gridOpacity,
               }}
             >
-              <div>
-                <h2 className="text-4xl font-bold text-purple-950 font-serif">
+              <div className="relative w-80 h-80 flex items-center justify-center border border-red-500">
+                <h2 className="absolute top-1/3 left-1/10 text-4xl font-bold text-purple-950 font-serif z-10">
                   Explore the Hub
                 </h2>
-              </div>
 
+                {/* Top */}
+                <Link
+                  href="#resources"
+                  className="absolute top-0 left-0 -translate-x-1/2 w-24 h-24 rounded-full bg-purple-200 hover:bg-purple-300 flex items-center justify-center text-center"
+                >
+                  Resources
+                </Link>
+
+                {/* Right */}
+                <Link
+                  href="#hostels"
+                  className="absolute right-20 top-1/2 -translate-y-1/2 w-24 h-24 rounded-full bg-purple-200 hover:bg-purple-300 flex items-center justify-center text-center"
+                >
+                  Hostels
+                </Link>
+
+                {/* Bottom Right */}
+                <Link
+                  href="#clubs"
+                  className="absolute bottom-6 right-40 w-24 h-24 rounded-full bg-purple-200 hover:bg-purple-300 flex items-center justify-center text-center"
+                >
+                  Clubs
+                </Link>
+
+                {/* Bottom Left */}
+                <Link
+                  href="#academics"
+                  className="absolute bottom-6 left-40 w-24 h-24 rounded-full bg-purple-200 hover:bg-purple-300 flex items-center justify-center text-center"
+                >
+                  Academics
+                </Link>
+
+                {/* Left */}
+                <Link
+                  href="#faq"
+                  className="absolute left-20 top-1/2 -translate-y-1/2 w-24 h-24 rounded-full bg-purple-200 hover:bg-purple-300 flex items-center justify-center text-center"
+                >
+                  FAQ
+                </Link>
+              </div>
             </div>
           </div>
         </div>
